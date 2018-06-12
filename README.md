@@ -1,6 +1,4 @@
-# axolotl-bot
-
-## Commands
+# Axolotl Bot Commands
 
 ### Fun Commands
 
