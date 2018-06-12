@@ -8,7 +8,7 @@
 | a!cringe  | Posts a random cringey video |
 | a!help  | Displays a link to this list |
 | a!lenny | Displays a lenny face |
-| a!philosophy | What's the meaing of these commands? |
+| a!philosophy **OR** a!phi | What's the meaing of these commands? |
 | a!question **OR** a!q | Ask a question and the great Axolotl will respond |
 | a!raffle | Chooses a random user from the server |
 | a!repeat | Toggles the Axolotl to repeat everyone |
