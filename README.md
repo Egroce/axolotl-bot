@@ -2,7 +2,7 @@
 
 ## Commands
 
-| **Commands** |
+| **Commands** | |
 | Command  | Info |
 | ------------- | ------------- |
 | a!axolotl  | Posts a random image of an Axolotl |
