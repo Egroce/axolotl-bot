@@ -5,6 +5,7 @@
 | Command  | Description |
 | ------------- | ------------- |
 | a!axolotl  | Posts a random image of an Axolotl |
+| a!callme  | Well use my command and call me Axolotl |
 | a!cringe  | Posts a random cringey video |
 | a!help **OR** a!?  | Displays a link to this list |
 | a!lenny | Displays a lenny face |
