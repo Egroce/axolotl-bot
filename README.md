@@ -7,6 +7,7 @@
 | a!axolotl  | Posts a random image of an Axolotl |
 | a!binary  | Converts your message to binary |
 | a!callme  | Well use my command and call me Axolotl |
+| a!chimaera  | Posts a random Peter Chimaera quote |
 | a!cringe  | Posts a random cringey video |
 | a!help **OR** a!?  | Displays a link to this list |
 | a!hype **OR** a!hypetrain | Axolotl gets hyped |
@@ -24,4 +25,7 @@
 | Command  | Description |
 | ------------- | ------------- |
 | a!createpasta | Create a new copypasta for Axolotl |
+| a!deletepasta **OR** a!delpasta | Delete a copypasta you created |
+| a!editpasta | Edit a copypasta you created |
+| a!mypastas | Shows a list of pastas you've created |
 | a!pasta | Axolotl reads an existing copypasta |
