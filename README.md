@@ -19,7 +19,7 @@
 | a!repeat **OR** a!copy | Toggles the Axolotl to repeat everyone |
 | a!reee **OR** a!screech | The Axolotl uses his hyper sonic abilities |
 | a!swearreactions **OR** a!srmode | Toggles the Axolotl to spell out swears in response to someone  |
-| a!translate | Runs your text through google translate and posts it |
+| a!translate | Runs your text through Google Translate and posts it |
 
 ### Pasta Commands
 
