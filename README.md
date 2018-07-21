@@ -21,6 +21,17 @@
 | a!swearreactions **OR** a!srmode | Toggles the Axolotl to spell out swears in response to someone  |
 | a!translate | Runs your text through Google Translate and posts it |
 
+### Marriage Commands
+
+| Command  | Description |
+| ------------- | ------------- |
+| a!marry | Marry a user |
+| a!divorce | Divorce the user you're married to |
+| a!marriageshere **OR** a!guildmarriages | Display a list of all the marriages in the server |
+| a!acceptmarriage | Accepts a marriage request |
+| a!denymarriage | Denies a marriage request |
+
+
 ### Pasta Commands
 
 | Command  | Description |
