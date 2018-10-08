@@ -5,7 +5,7 @@
 | Command  | Description |
 | ------------- | ------------- |
 | a!mute | Mutes a user |
-| a!unmutes | Unmute a user that has been muted |
+| a!unmute | Unmute a user that has been muted |
 
 ### Fun Commands
 
