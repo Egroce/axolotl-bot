@@ -1,5 +1,12 @@
 # Axolotl Bot Commands
 
+### Moderation Commands
+
+| Command  | Description |
+| ------------- | ------------- |
+| a!mute | Mutes a user |
+| a!unmutes | Unmute a user that has been muted |
+
 ### Fun Commands
 
 | Command  | Description |
