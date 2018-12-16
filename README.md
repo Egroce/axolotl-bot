@@ -16,7 +16,7 @@
 | a!callme  | Well use my command and call me Axolotl |
 | a!chimaera  | Posts a random Peter Chimaera quote |
 | a!cringe  | Posts a random cringey video |
-| a!fnaf    | Generates a random Five Nights at Freddy's theory |
+| a!fnaf **OR** a!fnaftheory| Generates a random Five Nights at Freddy's theory |
 | a!help **OR** a!?  | Displays a link to this list |
 | a!hype **OR** a!hypetrain | Axolotl gets hyped |
 | a!lenny | Displays a lenny face |
