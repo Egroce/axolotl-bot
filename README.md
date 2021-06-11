@@ -13,6 +13,7 @@
 | ------------- | ------------- |
 | a!axolotl  | Posts a random image of an Axolotl |
 | a!binary  | Converts your message to binary |
+| a!unbinary  | Converts binary to text |
 | a!callme  | Well use my command and call me Axolotl |
 | a!chimaera  | Posts a random Peter Chimaera quote |
 | a!cringe  | Posts a random cringey video |
@@ -29,6 +30,12 @@
 | a!swearreactions **OR** a!srmode | Toggles the Axolotl to spell out swears in response to someone  |
 | a!translate | Runs your text through Google Translate and posts it |
 
+### Image Commands
+
+| Command  | Description |
+| ------------- | ------------- |
+| a!whereismy **OR** a!wim | Posts the last panel of Pill Time with custom text |
+
 ### Marriage Commands
 
 | Command  | Description |
@@ -38,7 +45,6 @@
 | a!marriageshere **OR** a!guildmarriages | Display a list of all the marriages in the server |
 | a!acceptmarriage | Accepts a marriage request |
 | a!denymarriage | Denies a marriage request |
-
 
 ### Pasta Commands
 
