@@ -33,6 +33,7 @@
 | Command  | Description |
 | ------------- | ------------- |
 | a!whereismy **OR** a!wim | Posts the last panel of Pill Time with custom text |
+| a!simsprank **OR** a!prankcall | Generates a prank call from The Sims 1 |
 
 ### Marriage Commands
 
